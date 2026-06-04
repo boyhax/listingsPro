@@ -1,0 +1,6 @@
+{
+  "name": "Local Services Marketplace",
+  "description": "A comprehensive local services and listings marketplace modeled like HivePress, allowing booking, renting, and buying across categories like cars, real estate, products, and appointments. Includes active attributes, real-time communication, secure payments, user dashboards, automated calendars, and reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
